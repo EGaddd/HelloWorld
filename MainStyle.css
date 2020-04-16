@@ -1,4 +1,29 @@
-body {background: radial-gradient(circle, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);}
-h1   {color: white;}
-h2   {color: white;}
-p    {color: white;}
+body {
+	background: radial-gradient(circle, rgba(255,255,255,0) 10%, rgba(0,0,0,1) 35%, rgba(255,255,255,1) 100%);
+}
+
+#header1   {
+	color: white;
+	text-align: center;
+}
+
+.season {
+	text-align: center;
+	color: rgb(179, 204, 255);
+}
+
+.episodes {
+	text-align: center;
+	color: rgb(204,0,0);
+}
+
+#WW_logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 12%
+}
+
+html {
+	min-height: 100%
+}
