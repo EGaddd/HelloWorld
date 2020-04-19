@@ -1,0 +1,13 @@
+body{
+	background: radial-gradient(circle, rgba(255,255,255,0.95) 10%, rgba(0,0,0,0.95) 35%, rgba(255,255,255,0.3) 100%) no-repeat fixed, 
+	url(westworld-maze.png) no-repeat fixed center;
+}
+
+h1{
+	font-size: 40px;
+	color: white;
+	text-align: center;
+	text-shadow: 2px 2px gray;
+	font-family: 'Carrois Gothic SC', sans-serif;
+	text-transform: uppercase;
+}
